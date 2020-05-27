@@ -1,2 +1,2 @@
-# promeiro-rep-js
+# Meu primeiro repostório GitHub
 Formação Javascript
